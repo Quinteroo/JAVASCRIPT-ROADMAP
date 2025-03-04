@@ -1,4 +1,4 @@
-# JAVASCRIPT ROADMAP
+# 💛 JAVASCRIPT ROADMAP
 
 ## Apuntes y ejercicios para el estudio de JavaScript 
 ![alt text](assets/image.png)
